@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="pixel004_data" version="1.3.0" audacityversion="2.1.0" sel0="0.0000000000" sel1="32.0319274376" vpos="0" h="18.7733333333" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="GENRE" value="Game"/>
+		<tag name="TRACKNUMBER" value="5"/>
+		<tag name="ALBUM" value="Visball"/>
+		<tag name="YEAR" value="2015"/>
+		<tag name="TITLE" value="Scene 5"/>
+		<tag name="ARTIST" value="Chanon Olley &amp; Thomas Cowley"/>
+	</tags>
+	<wavetrack name="240376__edtijo__happy-8bit-pixel-adenture" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1412608">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000dec.au" len="142416" min="-0.883346" max="1.083444" rms="0.176356"/>
+				</waveblock>
+				<waveblock start="142416">
+					<simpleblockfile filename="e00003fa.au" len="262144" min="-1.100549" max="1.045441" rms="0.220004"/>
+				</waveblock>
+				<waveblock start="404560">
+					<simpleblockfile filename="e00008ee.au" len="262144" min="-1.010335" max="1.058542" rms="0.218562"/>
+				</waveblock>
+				<waveblock start="666704">
+					<simpleblockfile filename="e0000d12.au" len="262144" min="-1.066458" max="1.015743" rms="0.212148"/>
+				</waveblock>
+				<waveblock start="928848">
+					<simpleblockfile filename="e0000756.au" len="262144" min="-1.075404" max="1.0848" rms="0.225186"/>
+				</waveblock>
+				<waveblock start="1190992">
+					<simpleblockfile filename="e00005cf.au" len="221616" min="-1.062566" max="1.121089" rms="0.206221"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="240376__edtijo__happy-8bit-pixel-adenture" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1412608">
+				<waveblock start="0">
+					<simpleblockfile filename="e000036a.au" len="142416" min="-1.042962" max="1.045251" rms="0.179327"/>
+				</waveblock>
+				<waveblock start="142416">
+					<simpleblockfile filename="e0000211.au" len="262144" min="-1.026152" max="1.030921" rms="0.20858"/>
+				</waveblock>
+				<waveblock start="404560">
+					<simpleblockfile filename="e0000fe5.au" len="262144" min="-1.068014" max="1.016828" rms="0.210198"/>
+				</waveblock>
+				<waveblock start="666704">
+					<simpleblockfile filename="e0000b3f.au" len="262144" min="-1.078312" max="1.042454" rms="0.212165"/>
+				</waveblock>
+				<waveblock start="928848">
+					<simpleblockfile filename="e000077a.au" len="262144" min="-1.094692" max="1.057667" rms="0.217629"/>
+				</waveblock>
+				<waveblock start="1190992">
+					<simpleblockfile filename="e0000e59.au" len="221616" min="-1.073121" max="1.093065" rms="0.205235"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
