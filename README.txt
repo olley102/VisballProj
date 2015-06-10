@@ -11,6 +11,6 @@
 - Platform breaks apart under gravity. Avoid falling.
 - Rocks move towards the ball. Can knock ball off platform and break platform apart.
 - Platform becomes broken. Switch in a new platform ($$).
-- Collect 'force' to make black hole smaller, making gravity less and eventually destroying black hole.
+- Collect 'force' to unlock levels.
 - Less bounces, more points.
 - Use points to buy platforms, platform pieces and repair tools.
