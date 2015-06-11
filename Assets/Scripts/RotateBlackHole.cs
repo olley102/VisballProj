@@ -2,8 +2,10 @@
 using System.Collections;
 
 public class RotateBlackHole : MonoBehaviour {
-	// Update is called once per frame
+
+	public float speed;
+
 	void Update () {
-		transform.Rotate(Vector3.back * Time.deltaTime * 100);
+		transform.Rotate(Vector3.back * Time.deltaTime * speed);
 	}
 }
