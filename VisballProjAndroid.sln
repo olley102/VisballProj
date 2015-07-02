@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3BE6F52E-6204-4ECB-E369-9BE3EFB6C1AC}") = "VisballProjAndroid", "Assembly-CSharp.csproj", "{69C949C4-96BA-2568-7481-2F9136D6B21D}"
+EndProject
+Project("{3BE6F52E-6204-4ECB-E369-9BE3EFB6C1AC}") = "VisballProjAndroid", "Assembly-UnityScript-firstpass.unityproj", "{2DE3826A-7C45-D5D1-4731-939D551FC187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C949C4-96BA-2568-7481-2F9136D6B21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C949C4-96BA-2568-7481-2F9136D6B21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C949C4-96BA-2568-7481-2F9136D6B21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C949C4-96BA-2568-7481-2F9136D6B21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE3826A-7C45-D5D1-4731-939D551FC187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE3826A-7C45-D5D1-4731-939D551FC187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE3826A-7C45-D5D1-4731-939D551FC187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE3826A-7C45-D5D1-4731-939D551FC187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+															GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
