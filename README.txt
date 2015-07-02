@@ -14,3 +14,5 @@
 - Collect 'force' to unlock levels.
 - Less bounces, more points.
 - Use points to buy platforms, platform pieces and repair tools.
+
+Main stream development mode.
