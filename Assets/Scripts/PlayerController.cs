@@ -6,7 +6,6 @@ public class PlayerController : MonoBehaviour {
 
 	public float speed = 2.0f;
 	public float force = 0.0f;
-	public float smooth = 1.5f;
 	public float moveHorizontal = 0.0f;
 	public float moveVertical = 0.0f;
 	
@@ -22,14 +21,14 @@ public class PlayerController : MonoBehaviour {
 	void Update () {
 		GetComponent<Rigidbody>().velocity = new Vector3(0, GetComponent<Rigidbody>().velocity.y, 0);
 
-		if (joystick.GetComponent<JoystickController>().difx > 0.0f) {
+		if (joystick.GetComponent<JoystickController>().difx != 0.0f) {
 			moveHorizontal = joystick.GetComponent<JoystickController>().difx /20;
 		}
 		else {
 			moveHorizontal = Input.GetAxis("Horizontal");
 		}
 
-		if (joystick.GetComponent<JoystickController>().dify > 0.0f) {
+		if (joystick.GetComponent<JoystickController>().dify != 0.0f) {
 			moveVertical = joystick.GetComponent<JoystickController>().dify /20;
 		}
 		else {

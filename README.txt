@@ -1,6 +1,6 @@
-* Game made with Unity
+* Game made with Unity.
 
-* Aim of game
+* Aim of game.
 - Avoid ball being sucked into black hole.
 - Destroy black hole.
 - Less bounces, more points.

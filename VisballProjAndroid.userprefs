@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../VisballProj/Assets/SaturnV_Controller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="../VisballProj/Assets/SaturnV_Controller.cs" Line="10" Column="61" />
+      <File FileName="Assets/Scripts/JoystickController.cs" Line="30" Column="16" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="22" Column="96" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
